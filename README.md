@@ -3,10 +3,10 @@
 ## What is this?
 Our device is designed to assist individuals with visual impairments, including those who are blind or legally blind, by providing real-time object detection and distance estimation. For a more detailed overview, please look at the research poster located in the 'docs/' folder. Click the image below to see a video demo!
 
-[![Watch the video](https://img.youtube.com/vi/zgXAb3tXPgo/hqdefault.jpg)]https://www.youtube.com/shorts/zgXAb3tXPgo
+[![Watch the video](https://img.youtube.com/vi/zgXAb3tXPgo/hqdefault.jpg)](https://www.youtube.com/shorts/zgXAb3tXPgo)
 
 ## Device Configuration
-For the creation of this device we combined the following objects onto a helmet:
+For the creation of this device, we combined the following objects onto a helmet:
 * Raspberry Pi
 * STM32
 * Arducam ToF Camera
