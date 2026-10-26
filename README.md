@@ -5,6 +5,10 @@ Our device is designed to assist individuals with visual impairments, including 
 
 [![Watch the video](https://img.youtube.com/vi/zgXAb3tXPgo/hqdefault.jpg)](https://www.youtube.com/shorts/zgXAb3tXPgo)
 
+<a href="https://www.youtube.com/shorts/zgXAb3tXPgo" target="_blank">
+    <img src="https://img.youtube.com/vi/zgXAb3tXPgo/hqdefault.jpg" alt="Watch the video">
+</a>
+
 ## Device Configuration
 For the creation of this device, we combined the following objects onto a helmet:
 * Raspberry Pi
